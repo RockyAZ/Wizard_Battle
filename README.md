@@ -17,4 +17,6 @@ Health BAR for now won't charge.
 
 Here is Warrior model on scene, so you can press F to active Ragdoll behavior and press G to turn it to static model
 
+For the time being multiplayer allows you only to open multiple copy of this game on your localhost PC and toy will see multiple player on your local server.
+
 This is a very early version of the demo scene of the future game, i just experimenting with different mechanics.
