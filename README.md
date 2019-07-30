@@ -1,6 +1,8 @@
 # Wizard_Battle
 Unity game about multiplayer Wizard Battle
 
+TO START SINGLE GAME CREATE LAN HOST (PRESS 'H')
+
 WASD - moving.
 
 SPACE bar - flying.
