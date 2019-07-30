@@ -9,7 +9,7 @@ TO START SINGLE GAME CREATE LAN HOST (PRESS 'H')
 
 WASD - moving.
 
-SPACE bar - flying.
+SPACE bar - jump and fly.
 
 LMB - throw fireball, fireball explodes after touching with surface, so you can do rocketjump (different magical abilities in progress).
 
