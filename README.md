@@ -14,3 +14,7 @@ Player have Health BAR and Fly BAR.
 Fly BAR charging when you stay on ground.
 
 Health BAR for now won't charge.
+
+Here is Warrior model on scene, so you can press F to active Ragdoll behavior and press G to turn it to static model
+
+This is a very early version of the demo scene of the future game, i just experimenting with different mechanics.
